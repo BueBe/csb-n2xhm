@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://buebe.github.io/csb-n2xhm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://buebe.github.io/csb-n2xhm/static/js/main.0db44d37.chunk.js",
+    "main.js.map": "https://buebe.github.io/csb-n2xhm/static/js/main.0db44d37.chunk.js.map",
+    "runtime-main.js": "https://buebe.github.io/csb-n2xhm/static/js/runtime-main.dd6385ae.js",
+    "runtime-main.js.map": "https://buebe.github.io/csb-n2xhm/static/js/runtime-main.dd6385ae.js.map",
+    "static/js/2.4f0cf8fb.chunk.js": "https://buebe.github.io/csb-n2xhm/static/js/2.4f0cf8fb.chunk.js",
+    "static/js/2.4f0cf8fb.chunk.js.map": "https://buebe.github.io/csb-n2xhm/static/js/2.4f0cf8fb.chunk.js.map",
+    "index.html": "https://buebe.github.io/csb-n2xhm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://buebe.github.io/csb-n2xhm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4f0cf8fb.chunk.js.LICENSE.txt": "https://buebe.github.io/csb-n2xhm/static/js/2.4f0cf8fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6385ae.js",
+    "static/js/2.4f0cf8fb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0db44d37.chunk.js"
+  ]
+}
